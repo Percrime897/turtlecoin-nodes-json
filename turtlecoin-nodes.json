@@ -1,6 +1,13 @@
 {
   "nodes": [
     {
+      "name": "Shelly",
+      "url": "122.110.191.87:11898",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "chaosakos-cz",
       "url": "trtl.chaosakos.xyz",
       "port": 11898,
