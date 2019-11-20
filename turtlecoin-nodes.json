@@ -119,8 +119,8 @@
       "cache": false
     },
     {
-      "name": "Shelly",
-      "url": "122.110.191.87",
+      "name": "Shelly - Australia",
+      "url": "175.34.102.101",
       "port": 11898,
       "ssl": false,
       "cache": false
